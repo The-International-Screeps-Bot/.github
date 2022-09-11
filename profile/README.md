@@ -2,4 +2,4 @@
 
 ## Quick Links
 
-[<img src="https://user-images.githubusercontent.com/48334001/189509072-2998230f-0889-401f-9c75-9152ab24153d.png" width="33%">](https://github.com/The-International-Screeps-Bot/The-International-Open-Source)
+[<img src="https://user-images.githubusercontent.com/48334001/189509168-e580b814-98e8-414e-9835-e38342cd132d.png" width="33%">](https://github.com/The-International-Screeps-Bot/The-International-Open-Source)
